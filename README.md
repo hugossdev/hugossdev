@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Estudante de Ciências da Computação na Universidade de Fortaleza (Unifor). Foco de aprendizado em Desenvolvimento de Software e Web. Procurando uma oportunidade de estágio para desenvolvimento intelectual e pessoal.</p>
+<p align="left">Estudante de Ciências da Computação na Universidade de Fortaleza (Unifor). Foco de aprendizado para Desenvolvimento de Software e Web. Procurando uma oportunidade de estágio para desenvolvimento intelectual e pessoal.</p>
 
 ###
 
